@@ -1,0 +1,23 @@
+[
+    {
+        "item": "Notebook Dell",
+        "local": "Laboratório 01",
+        "dataRegistro": "2026-09-10",
+        "valor": 3500.00,
+        "patrimonio": "PAT-00125"
+    },
+    {
+        "item": "Notebook Positivo",
+        "local": "Laboratório 04",
+        "dataRegistro": "2026-16-10",
+        "valor": 2500.00,
+        "patrimonio": "PAT-00128"
+    },
+    {
+        "item": "Notebook Aplle",
+        "local": "Laboratório 09",
+        "dataRegistro": "2026-19-10",
+        "valor": 4600.00,
+        "patrimonio": "PAT-04025"
+    }
+]

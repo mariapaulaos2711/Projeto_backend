@@ -13,4 +13,4 @@ Os dados são armazenados em um arquivo JSON, sem a utilização de banco de dad
 * **JavaScript** — linguagem utilizada no desenvolvimento.
 * **JSON** — utilizado para armazenar os registros do inventário.
 
-## https://github.com/wellifabio/sesi_pbe1_aula05_times_api_2026/blob/main/README.md#tutorial-de-como-iniciar-novo-backend
+
